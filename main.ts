@@ -1,7 +1,7 @@
 /**
  * Erweiterung Zeichenkettenfunktionen für Makecode
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=10 color=#0fbc11 icon=""
 namespace Zeichenkette {
     /**
      * TODO: Beschreibe deine Funktion hier
